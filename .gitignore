@@ -4,3 +4,5 @@
 # Data Files
 *.csv
 *.xlsx
+*.pickle
+*.docx
